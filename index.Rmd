@@ -48,11 +48,3 @@ We'll use this model to predict automatically for users, only requiring them to 
 Providing this app interface will allow users to quickly get the answers they need--wihout having to go directly to our data scientists.
 
 This will save everyone time and effort!
-
---- .class #id
-
-## Thank you
-
-Any questions?
-
-
